@@ -26,8 +26,6 @@
   <img src="https://streak-stats.demolab.com?user=syedrafanahmed-cell&theme=tokyonight"/>
 </p>
 
-
-🛠️ Tech Stack
 ## 🛠️ Tech Stack
 
 <p align="left">
