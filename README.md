@@ -16,13 +16,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedrafanahmed-cell&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedrafanahmed-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedrafanahmed-cell&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=syedrafanahmed-cell&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=syedrafanahmed-cell&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🛠️ Tech Stack
