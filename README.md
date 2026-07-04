@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Syed Rafan Ahmed 👋
 
-<!--
-**syedrafanahmed-cell/syedrafanahmed-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering (Class of 2027)
 
-Here are some ideas to get you started:
+💻 Passionate about Java, Data Structures & Algorithms, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Java
+- Data Structures & Algorithms
+- MySQL
+
+🚀 Projects
+- QuickFix Hub – Home Service Booking Platform
+- Smart Queue Management System
+
+🛠️ Tech Stack
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+- DBMS
+- Git
+- GitHub
+
+🎯 Goals
+- Build real-world software projects
+- Improve problem-solving skills
+- Secure a Software Engineering / Java Internship
+
+📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/syedrafanahmed/
+
+⭐ Thanks for visiting my profile!
