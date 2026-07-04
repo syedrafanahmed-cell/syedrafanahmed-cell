@@ -16,8 +16,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedrafanahmed-cell&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedrafanahmed-cell&layout=compact&theme=tokyonight" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedrafanahmed-cell&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedrafanahmed-cell&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ## 🔥 GitHub Streak
