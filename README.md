@@ -12,6 +12,10 @@ B.Tech Computer Science & Engineering (2027) | Java Developer | DSA Enthusiast
 <img src="https://komarev.com/ghpvc/?username=syedrafanahmed-cell&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
+
 ---
 
 # 👨‍💻 About Me
