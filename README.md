@@ -95,6 +95,14 @@ A queue management system developed to reduce waiting time and improve service e
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syedrafanahmed-cell&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🎯 Career Goals
 
 - 💻 Become a Software Engineer
