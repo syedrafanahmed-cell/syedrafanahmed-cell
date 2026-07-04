@@ -107,9 +107,8 @@ A queue management system developed to reduce waiting time and improve service e
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedrafanahmed-cell&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syedrafanahmed-cell&theme=flat&column=4" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
