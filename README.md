@@ -103,6 +103,12 @@ A queue management system developed to reduce waiting time and improve service e
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedrafanahmed-cell&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ## 🎯 Career Goals
 
 - 💻 Become a Software Engineer
