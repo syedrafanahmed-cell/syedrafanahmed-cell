@@ -1,74 +1,62 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Syed+Rafan+Ahmed;Java+Developer;Data+Structures+%26+Algorithms;B.Tech+CSE+2027;Open+to+Internship+Opportunities" />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Syed Rafan Ahmed</h1>
-<h3 align="center">B.Tech CSE 2027 | Java Developer | DSA Enthusiast</h3>
+
+<h3 align="center">
+B.Tech Computer Science & Engineering (2027) | Java Developer | DSA Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Data+Structures+%26+Algorithms;Learning+MySQL;Open+to+Software+Engineering+Internships"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/syedrafanahmed-cell">
-    <img src="https://komarev.com/ghpvc/?username=syedrafanahmed-cell&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=syedrafanahmed-cell&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering (Class of 2027)
-- ☕ Passionate about Java and Software Development
+- 💻 Passionate about Java and Software Development
 - 🌱 Currently learning **Data Structures & Algorithms** and **MySQL**
-- 💡 Love solving programming problems and building real-world projects
-- 🚀 Looking for **Software Engineering** and **Java Internship** opportunities
+- 🚀 Looking for **Software Engineering / Java Internship Opportunities**
+- 💡 I enjoy solving coding problems and building real-world applications.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/syedrafanahmed/" target="_blank">
+
+<a href="https://www.linkedin.com/in/syedrafanahmed/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/syedrafanahmed-cell" target="_blank">
+<a href="https://github.com/syedrafanahmed-cell">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
+# 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse"/>
 </p>
+
+### Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Algorithms
+- DBMS
+- Problem Solving
+
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - ☕ Advanced Java
 - 📚 Data Structures & Algorithms
@@ -76,27 +64,28 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏠 QuickFix Hub
-A home service booking platform that connects users with trusted service professionals for electrical, plumbing, AC repair, cleaning, and more.
+## 🏠 QuickFix Hub
 
-### 🚦 Smart Queue Management System
-A queue management system developed to reduce waiting time and improve service efficiency using a structured queue-based approach.
+A home service booking platform that connects users with trusted professionals for AC repair, plumbing, electrical work, cleaning, and other home services.
+
+## 🚦 Smart Queue Management System
+
+A queue management application designed to reduce waiting time and improve customer service efficiency.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=syedrafanahmed-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedrafanahmed-cell&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=syedrafanahmed-cell&theme=tokyonight&hide_border=true"/>
@@ -104,33 +93,36 @@ A queue management system developed to reduce waiting time and improve service e
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedrafanahmed-cell&theme=flat&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=syedrafanahmed-cell&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"/>
 </p>
+
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedrafanahmed-cell&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedrafanahmed-cell&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## 🎯 Career Goals
+---
+
+# 🎯 Career Goals
 
 - 💻 Become a Software Engineer
 - ☕ Master Java Backend Development
-- 🚀 Build impactful real-world applications
-- 🤝 Contribute to Open Source Projects
-- 📈 Continuously improve my problem-solving skills
+- 🚀 Build impactful software projects
+- 🤝 Contribute to Open Source
+- 📈 Improve problem-solving skills every day
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Improve. Repeat."* 🚀
+### *"Keep Learning • Keep Building • Keep Growing"* 🚀
 
 </div>
