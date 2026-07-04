@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Syed+Rafan+Ahmed;Java+Developer;Data+Structures+%26+Algorithms;B.Tech+CSE+2027;Open+to+Internship+Opportunities" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Syed Rafan Ahmed</h1>
 <h3 align="center">B.Tech CSE 2027 | Java Developer | DSA Enthusiast</h3>
 
