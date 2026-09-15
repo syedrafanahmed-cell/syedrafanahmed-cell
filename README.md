@@ -5,11 +5,11 @@ B.Tech CSE (2027) | Java Developer | Data Science Learner | DSA Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Java+Developer;Data+Structures+%26+Algorithms;Python+%26+SQL+Learner;Data+Science+Enthusiast;Open+to+Software+Engineering+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Java+Developer+%E2%98%95;Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Python+%26+SQL+Learner+%F0%9F%90%8D;Data+Science+Enthusiast+%F0%9F%93%8A;Open+to+Software+Engineering+Opportunities+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedrafanahmed-cell&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=syedrafanahmed-cell&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@ B.Tech CSE (2027) | Java Developer | Data Science Learner | DSA Enthusiast
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering — Class of 2027
-- 💻 Interested in Java, Software Development & Data Science
-- 📚 Practicing Data Structures & Algorithms
-- 🐍 Learning Python, SQL & Data Science
-- 🚀 Looking for Software Engineering / Java / Data Science opportunities
+- 🎓 B.Tech Computer Science & Engineering — **Class of 2027**
+- 💻 Interested in **Java, Software Development & Data Science**
+- 📚 Practicing **Data Structures & Algorithms**
+- 🐍 Learning **Python, SQL & Data Science**
+- 🚀 Looking for **Software Engineering / Java / Data Science Opportunities**
 - 💡 I enjoy solving coding problems and building real-world applications
 
 ---
@@ -59,15 +59,17 @@ B.Tech CSE (2027) | Java Developer | Data Science Learner | DSA Enthusiast
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,eclipse" />
 </p>
 
-### 💻 Programming
+### 💻 Programming Languages
 - Java
 - Python
 - JavaScript
 
-### 🌐 Web
+### 🌐 Web Technologies
 - HTML
 - CSS
 - JavaScript
+- React
+- Node.js
 
 ### 🗄️ Database
 - MySQL
@@ -75,7 +77,8 @@ B.Tech CSE (2027) | Java Developer | Data Science Learner | DSA Enthusiast
 
 ### 🧠 Core Concepts
 - Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
+- Data Structures
+- Algorithms
 - DBMS
 - Problem Solving
 
@@ -104,36 +107,81 @@ B.Tech CSE (2027) | Java Developer | Data Science Learner | DSA Enthusiast
 A home service booking platform that connects users with professionals for AC repair, plumbing, electrical work, cleaning, and other home services.
 
 **Key Features:**
-- Service booking
-- Multiple service categories
-- User-friendly interface
-- Real-world service management concept
+- 🛠️ Multiple home service categories
+- 📅 Service booking
+- 👨‍🔧 Professional service management
+- 💻 User-friendly interface
 
 ---
 
 ## 🚦 SmartQueue
 
-A QR-based queue management system designed for the college Examination Branch to reduce manual waiting queues.
+A **QR-based Queue Management System** designed for the college Examination Branch to reduce manual waiting queues and improve service efficiency.
 
 **Key Features:**
-- QR-based access
-- Online token generation
-- Student queue registration
-- Admin dashboard
-- Daily token management
+- 📱 QR-based access
+- 🎫 Online token generation
+- 👨‍🎓 Student queue registration
+- 🖥️ Admin dashboard
+- 📅 Daily token management
 
 **Tech Stack:** React | Node.js | Express | JSON File Storage
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=syedrafanahmed-cell&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedrafanahmed-cell&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=syedrafanahmed-cell&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syedrafanahmed-cell&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedrafanahmed-cell&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/syedrafanahmed-cell/syedrafanahmed-cell/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 # 🎯 Career Goals
 
-- 💻 Become a Software Engineer
-- ☕ Strengthen Java Backend Development
-- 📊 Build strong Data Science skills
-- 🧠 Improve DSA & problem-solving skills
+- 💻 Become a **Software Engineer**
+- ☕ Strengthen **Java Backend Development**
+- 📊 Build strong **Data Science** skills
+- 🧠 Improve **DSA & Problem Solving**
 - 🚀 Build impactful real-world projects
-- 🤝 Contribute to Open Source
+- 🤝 Contribute to **Open Source**
+- 📈 Keep learning and improving every day
 
 ---
 
@@ -141,6 +189,6 @@ A QR-based queue management system designed for the college Examination Branch t
 
 ## ⭐ Thanks for visiting my profile!
 
-### Keep Learning • Keep Coding • Keep Building 🚀
+### 💻 Keep Learning • Keep Coding • Keep Building 🚀
 
 </div>
