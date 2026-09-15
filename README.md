@@ -77,8 +77,7 @@ B.Tech CSE (2027) | Java Developer | Data Science Learner | DSA Enthusiast
 
 ### 🧠 Core Concepts
 - Object-Oriented Programming (OOP)
-- Data Structures
-- Algorithms
+- Data Structures & Algorithms
 - DBMS
 - Problem Solving
 
@@ -129,47 +128,24 @@ A **QR-based Queue Management System** designed for the college Examination Bran
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=syedrafanahmed-cell&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedrafanahmed-cell&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=syedrafanahmed-cell&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedrafanahmed-cell&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedrafanahmed-cell&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syedrafanahmed-cell/syedrafanahmed-cell/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/syedrafanahmed-cell/syedrafanahmed-cell/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/syedrafanahmed-cell/syedrafanahmed-cell/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/syedrafanahmed-cell/syedrafanahmed-cell/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+[![Syed Rafan Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedrafanahmed-cell&theme=tokyo-night&hide_border=true&area=true)](https://github.com/syedrafanahmed-cell)
 
 ---
 
@@ -177,7 +153,7 @@ A **QR-based Queue Management System** designed for the college Examination Bran
 
 - 💻 Become a **Software Engineer**
 - ☕ Strengthen **Java Backend Development**
-- 📊 Build strong **Data Science** skills
+- 📊 Build strong **Data Science skills**
 - 🧠 Improve **DSA & Problem Solving**
 - 🚀 Build impactful real-world projects
 - 🤝 Contribute to **Open Source**
