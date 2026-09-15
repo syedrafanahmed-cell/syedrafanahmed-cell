@@ -62,18 +62,13 @@ B.Tech CSE (2027) | Java Developer | Data Science Learner | DSA Enthusiast
 ### 💻 Programming Languages
 - Java
 - Python
-- JavaScript
 
 ### 🌐 Web Technologies
 - HTML
 - CSS
-- JavaScript
-- React
-- Node.js
 
 ### 🗄️ Database
 - MySQL
-- SQL
 
 ### 🧠 Core Concepts
 - Object-Oriented Programming (OOP)
@@ -82,7 +77,6 @@ B.Tech CSE (2027) | Java Developer | Data Science Learner | DSA Enthusiast
 - Problem Solving
 
 ### 🔧 Tools
-- Git
 - GitHub
 - VS Code
 - Eclipse
@@ -94,7 +88,7 @@ B.Tech CSE (2027) | Java Developer | Data Science Learner | DSA Enthusiast
 - ☕ Advanced Java
 - 📚 Data Structures & Algorithms
 - 🐍 Python
-- 🗄️ SQL & MySQL
+- 🗄️ MySQL
 - 📊 Data Science
 
 ---
